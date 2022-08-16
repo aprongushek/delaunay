@@ -4,9 +4,9 @@ Description:
 
 
 
-Examples:
+Example:
 
-	![example pic](https://github.com/aprongushek/delaunay/blob/master/example.png)
+![example pic](https://github.com/aprongushek/delaunay/blob/master/example.png)
 
 	Example triangulation was built on 100 normally distributed points.
 
