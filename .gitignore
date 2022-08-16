@@ -1,0 +1,7 @@
+*.txt
+*.xlsx
+*.o
+*.d
+*.exe
+
+docs/*
