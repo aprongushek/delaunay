@@ -2,7 +2,7 @@ Description:
 Delaunay triangulation algorithm using additional dynamic cache structure for faster point localisations.
 
 Examples:
-![alt text](https://github.com/aprongushek/delaunay.git/master/example.png)
+![example pic](https://github.com/aprongushek/delaunay/blob/master/example.png)
 Example triangulation was built on 100 normally distributed points.
 
 Used libraries:
